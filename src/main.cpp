@@ -1,7 +1,6 @@
-#include <iostream>
-#include "SDL.H"
+#include "game.h"
 
 int main(int argc, char* argv[]) {
-    std::cout << "sdl2 works\n";
+    Game game;
     return 0;
 }
