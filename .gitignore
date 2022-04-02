@@ -1,0 +1,4 @@
+include/sdl2
+*.dll
+lib
+main.exe
